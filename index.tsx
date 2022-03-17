@@ -93,16 +93,17 @@ class App extends Component<AppProps, AppState> {
         </table>    
         <table id="page1Footer" className="tableStyle">
           <tr>
-            <td className="tdLeftWidth">
+            <td className="tdWidth50">
             This report provides you with information about the Association’s overall health based on data provided by the Association’s Board of Directors or a person or company serving as their Fiduciary Agent. There may be other factors not part of this report that may affect the accuracy of this report.
+            <p>
             2022 Association Reserves Consulting, Inc. All rights reserved.
+            </p>
             </td>
-            <td className="tdRightWidth">
-              <img src="Logo.PNG" alt="Logo" />
+            <td className="tdWidth50Center">
+              <img src="https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2h6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8bb41717175a7fd7629995eabf8d26f2cca79a9/Logo.PNG" alt="Logo" className="image250" />
             </td>
           </tr>
         </table>    
-
       </p>        
       </div>
     );
