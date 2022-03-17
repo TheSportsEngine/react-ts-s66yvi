@@ -87,9 +87,37 @@ class App extends Component<AppProps, AppState> {
             </td>
           </tr>               
         </table>
-        <table id="FiPhO" className="tableStyle">
+        <table id="FiPhO" className="tableStyle30">
           <tr>
+            <td colspan="2" className="assocHealth">ASSOCIATION HEALTH STORY</td>
+            <td>
+               <img src="https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2h6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8bb41717175a7fd7629995eabf8d26f2cca79a9/Property.PNG" alt="Logo" className="image250" />              
+            </td>
           </tr>
+          <tr>
+            <td className="imageFiPhO">Fi</td>
+            <td className="alignLeft">
+              <div><strong>Financial Health</strong></div>
+              <div>Is the Association</div>
+              <div>adequately funded?</div>
+            </td>
+          </tr>
+          <tr>
+            <td className="imageFiPhO">Ph</td>
+            <td className="alignLeft">
+              <div><strong>Physical Health</strong></div>
+              <div>Is the Association</div>
+              <div>well-maintained?</div>
+            </td>
+          </tr>  
+          <tr>
+            <td className="imageFiPhO">O</td>
+            <td className="alignLeft">
+              <div><strong>Operational Health</strong></div>
+              <div>Is the Association</div>
+              <div>properly organized?</div>
+            </td>
+          </tr>                  
         </table>    
         <table id="page1Footer" className="tableStyle">
           <tr>

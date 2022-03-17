@@ -7,14 +7,32 @@ h1, p {
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.tableStyle35 {
+  width: 35%;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .bold {
   font-weight: bold;
 }
 
-.tdWidth50 {
-  width: 50%;
+.tdWidth25 {
+  width: 25%;
+}
+
+.tdWidth30 {
+  width: 30%;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 14px;  
+}
+
+.assocHealth {
+  color:#247185;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 25px;
 }
 
 .tdWidth50Center {
@@ -24,6 +42,20 @@ h1, p {
 
 .image250 {
   width: 250px;
+}
+
+.imageFiPhO {
+  color: #8da71d;
+  font-size: 74px;
+  font-weight: bold;
+  width: 25%;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.alignLeft {
+  text-align: left;
+  font-size: 20px;
 }
 
 .tdHeaderLeft {
