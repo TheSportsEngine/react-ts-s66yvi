@@ -91,7 +91,7 @@ class App extends Component<AppProps, AppState> {
           <tr>
             <td colspan="2" className="assocHealth">ASSOCIATION HEALTH STORY</td>
             <td>
-               <img src="https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2h6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8bb41717175a7fd7629995eabf8d26f2cca79a9/Property.PNG" alt="Logo" className="image250" />              
+               <img src="../images/Property.jpg" alt="Logo" className="image250" />              
             </td>
           </tr>
           <tr>
