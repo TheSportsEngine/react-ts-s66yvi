@@ -98,7 +98,7 @@ class App extends Component<AppProps, AppState> {
             2022 Association Reserves Consulting, Inc. All rights reserved.
             </td>
             <td className="tdRightWidth">
-              <img src="../../images/Logo.PNG" alt="Logo" />
+              <img src="../images/Logo.PNG" alt="Logo" />
             </td>
           </tr>
         </table>    
